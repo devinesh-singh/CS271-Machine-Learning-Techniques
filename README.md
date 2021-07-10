@@ -1,4 +1,4 @@
-# CS271-Topics-in-Machine-Learning
+# CS271-Topics-in-Machine-Learning Spring 2021 Professor Stamp
 
 Hidden Markov Model (HMM)
 - implement a HMM using pseudocode from Textbook (Introduction to Machine Learning with Applications in Information Security by Mark Stamp)
